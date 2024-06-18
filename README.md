@@ -1,4 +1,4 @@
-# My Rusty Journey
+# 🦀 My Rusty Journey 🦀
 
 ## WTH is this repo
 
