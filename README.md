@@ -80,10 +80,14 @@ As I have understand creates are like libraries and or packages that are created
 in this part of the book the book introduced me in a few stuff like;
 
 - Functions
-- use statements
-- io
+- Use statements
+- IO
 - Printing
-- using cargo to install crates
+- Using cargo to install crates
+- Looping
+- Error handling
+- Ordering
+- Rng
 
 #### Setting up a project
 
