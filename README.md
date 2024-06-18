@@ -216,6 +216,8 @@ loop{
     //code you want to loop
     //if you want to stop the loop use
     break;
+    //if you want to continue to the next iteration of the loop
+    continue;
 }
 ```
 
