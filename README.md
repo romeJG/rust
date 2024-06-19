@@ -15,7 +15,6 @@ ps. Bruh i'm just a noob bare with me
 
 ## Table of contents 📋
 
-- [My Rusty Journey](#my-rusty-journey)
   - [WTH is this repo](#wth-is-this-repo)
   - [Resources](#resources)
   - [Table of contents 📋](#table-of-contents-)
