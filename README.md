@@ -229,7 +229,8 @@ loop{
 We also add a parsing error handling.
 
 ```rust
-// sets the input of the user to a unsined 32(u32) then it will error when its not parsed into a num
+// sets the input of the user to a un signed 32(u32) then it will
+// error when its not parsed into a num
 let guess: u32 = match guess.trim().parse() {
     Ok(num) => num,
     Err(_) => continue,
